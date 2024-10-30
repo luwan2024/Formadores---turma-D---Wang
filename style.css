@@ -5,18 +5,18 @@ body {
 section {
     background-color: yellowgreen;
     padding-top: 80px;
-    padding-bottom: 80 pix;
+    padding-bottom: 80px;
     display: flex;
     justify-content: center;
 }
 .chamada-texto{
-    margin-right: 5%px;
+    margin-right: 5%;
 }
 img{
     height: 200px;
 }
 .categoria-videos{
-    display flex: ;
-    overflow-x: ;
+    display: flex;
+    overflow-x: auto;
     gap: 10px;
 }
